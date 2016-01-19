@@ -7,10 +7,19 @@ var leapYear = function(year) {
 $ (document).ready(function () {
   $ ("#yearForm").submit(function(event) {
     var input = parseInt($("input#inputLeapYear").val());
+    var result = leapYear(input);
 
-    console.log(leapYear(input));
-    $("#output").text(leapYear(input));
+    $(".year").text(input);
 
+    if (!result) {
+      $(".not").text("not");
+    } else {
+      $(".not").text("");
+    }
+
+
+
+    $("#output").show();
     event.preventDefault();
   });
 });
