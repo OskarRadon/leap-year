@@ -1,19 +1,19 @@
-# _{Leap Year Site}_
+# _Leap Year Site_
 
-#### _{Epicodus week 3 day 2 project}, {10-19-2016}_
+#### _Epicodus week 3 day 2 project, 10-19-2016_
 
-#### By _**{Oskar Radon and Ramon de la Cruz}**_
+#### By _**Oskar Radon and Ramon de la Cruz**_
 
 ## Description
 
-_{A simple page that uses javascript to determine if a year entered is a leap year or not. }_
+_A simple page that uses javascript to determine if a year entered is a leap year or not. _
 
 ## Technologies Used
 
-_{jQuery, Mocha, Chai, Bootstrap}_
+_jQuery, Mocha, Chai, Bootstrap_
 
 ### License
 
-*{MIT License}*
+*MIT License*
 
-Copyright (c) 2015 **_{Oskar Radon and Ramon de la Cruz}_**
+Copyright (c) 2015 **_Oskar Radon and Ramon de la Cruz_**
